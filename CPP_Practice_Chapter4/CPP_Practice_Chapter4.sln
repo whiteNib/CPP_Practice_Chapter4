@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Practice_Chapter4", "CPP_Practice_Chapter4\CPP_Practice_Chapter4.vcxproj", "{28DB4576-88F9-4DB2-BE3F-41BD8893434E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28DB4576-88F9-4DB2-BE3F-41BD8893434E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{28DB4576-88F9-4DB2-BE3F-41BD8893434E}.Debug|Win32.Build.0 = Debug|Win32
+		{28DB4576-88F9-4DB2-BE3F-41BD8893434E}.Release|Win32.ActiveCfg = Release|Win32
+		{28DB4576-88F9-4DB2-BE3F-41BD8893434E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
